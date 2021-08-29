@@ -16,4 +16,6 @@ docker-compose up -d
 - [How to Install and Configure Laravel with LEMP on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-lemp-on-ubuntu-18-04)
 - [Containerizing a Laravel 6 Application for Development with Docker Compose on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/containerizing-a-laravel-6-application-for-development-with-docker-compose-on-ubuntu-18-04)
 
-
+## Zingfeng note
+Video
+https://www.youtube.com/watch?v=l0jb-N5H52A&ab_channel=Docker
